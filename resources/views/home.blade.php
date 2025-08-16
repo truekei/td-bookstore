@@ -51,7 +51,7 @@
         </tbody>
     </table>
     <div style="margin-top: 20px;">
-        <a href="#" style="margin-inline: 10px">Top 10 Famous Author</a>
+        <a href="{{ route('authors.index') }}" style="margin-inline: 10px">Top 10 Famous Author</a>
         <a href="#" style="margin-inline: 10px">Input Rating</a>
     </div>
     
